@@ -66,8 +66,13 @@ echo '<span class="pull-right top title1" ><span class="log1"><span class="glyph
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+<<<<<<< HEAD
       <a class="navbar-brand" href="dash.php?q=0"><b>Dashboard</b></a> 
     </div>  
+=======
+      <a class="navbar-brand" href="dash.php?q=0"><b>Dashboard</b></a>
+    </div>
+>>>>>>> b064a65e2fd4493a0dcd35ea2e8453248fe19cec
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
